@@ -1,0 +1,27 @@
+1,Titanic,M,17/12/1997,James Cameron,180,13.0,10:30,02/11/2021,Bronze,Paramatta,13.0,10,20
+2,Titanic,M,17/12/1997,James Cameron,180,13.0,14:00,02/11/2021,Silver,Paramatta,15.6,30,0
+3,Titanic,M,17/12/1997,James Cameron,180,13.0,19:09,02/11/2021,Gold,Paramatta,19.5,15,15
+4,Titanic,M,17/12/1997,James Cameron,180,13.0,19:00,02/11/2021,Silver,Chatswood,15.6,20,10
+6,Shrek,G,21/06/2001,Vicky Jenson,90,20.0,10:00,20/11/2021,Gold,Usyd,30.0,6,24
+7,Shrek,G,21/06/2001,Vicky Jenson,90,20.0,10:00,04/11/2021,Bronze,Usyd,20.0,9,21
+8,Shrek,G,21/06/2001,Vicky Jenson,90,20.0,10:00,02/11/2021,Silver,Usyd,24.0,7,23
+9,Shrek,G,21/06/2001,Vicky Jenson,90,20.0,14:00,07/11/2021,Gold,Chatswood,30.0,22,8
+10,Zootopia,G,10/05/2018,Abraham Lincon,130,20.0,10:00,02/11/2021,Silver,Paramatta,24.0,29,1
+11,Zootopia,G,10/05/2018,Abraham Lincon,130,20.0,16:00,02/11/2021,Silver,Usyd,24.0,14,16
+12,Zootopia,G,10/05/2018,Abraham Lincon,130,20.0,13:00,03/11/2021,Bronze,Usyd,20.0,16,14
+13,Zootopia,G,10/05/2018,Abraham Lincon,130,20.0,13:30,02/11/2021,Gold,Usyd,30.0,12,18
+14,Deadpool,R18+,10/10/2012,Donald Trump,100,15.0,11:45,02/11/2021,Silver,Cantebury,18.0,10,20
+15,Deadpool,R18+,10/10/2012,Donald Trump,100,15.0,09:30,20/11/2021,Gold,Cantebury,22.5,11,19
+16,Deadpool,R18+,10/10/2012,Donald Trump,100,15.0,10:00,02/11/2021,Bronze,Cantebury,15.0,30,0
+17,Twilight,MA15+,02/04/2012,Scomo,90,10.0,15:30,02/11/2021,Bronze,Cantebury,10.0,0,30
+18,Twilight,MA15+,02/04/2012,Scomo,90,10.0,16:45,04/11/2021,Gold,Cantebury,15.0,1,29
+19,Twilight,MA15+,02/04/2012,Scomo,90,10.0,12:30,02/11/2021,Silver,Cantebury,12.0,13,17
+20,Titanic,M,17/12/1997,James Cameron,180,13.0,11:15,08/11/2021,Silver,Paramatta,15.6,30,0
+21,Titanic,M,17/12/1997,James Cameron,180,13.0,10:30,08/11/2021,Bronze,Paramatta,13.0,30,0
+22,Titanic,M,17/12/1997,James Cameron,180,13.0,19:00,09/11/2021,Bronze,Usyd,13.0,30,0
+23,Twilight,MA15+,02/04/2012,Scomo,90,10.0,20:08,08/11/2021,Bronze,Usyd,10.0,30,0
+24,Shrek,G,21/06/2001,Vicky Jenson,90,20.0,09:30,08/11/2021,Gold,Chatswood,30.0,30,0
+25,Shrek,G,21/06/2001,Vicky Jenson,90,20.0,03:30,08/11/2021,Silver,Chatswood,24.0,30,0
+26,Zootopia,G,10/05/2018,Abraham Lincon,130,20.0,19:00,08/11/2021,Bronze,Chatswood,20.0,30,0
+27,Deadpool,R18+,10/10/2012,Donald Trump,100,15.0,10:00,08/11/2021,Gold,Bondi,22.5,30,0
+29,Deadpool,R18+,10/10/2012,Donald Trump,100,15.0,18:00,01/11/2021,Gold,Bondi,22.5,30,0
